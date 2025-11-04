@@ -6,5 +6,4 @@ url: "https://jeansebastian12lloyd-arch.github.io"
 theme: minima
 plugins: []
 markdown: kramdown
-author:
-  name: "Jean Sebastián Lloyd Zamora"
+author: Jean Sebastián Lloyd Zamora
