@@ -14,4 +14,4 @@ La **inteligencia artificial (IA)** está transformando sectores enteros: salud,
 ### Ética y desafíos
 Es fundamental abordar la **ética**, la privacidad y el sesgo en los datos para garantizar un uso responsable de la IA.
 
-![Inteligencia Artificial](assets/ia.jpg.png)
+![Inteligencia Artificial](assets/img/ia.png)
