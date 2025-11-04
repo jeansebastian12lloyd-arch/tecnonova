@@ -1,0 +1,10 @@
+title: TecnoNova
+email: jean.sebastian12lloyd@gmail.com
+description: "TecnoNova — El blog de innovación y tecnología"
+baseurl: "" 
+url: "https://jeansebastian12lloyd-arch.github.io"
+theme: minima
+plugins: []
+markdown: kramdown
+author:
+  name: "Jean Sebastián Lloyd Zamora"
