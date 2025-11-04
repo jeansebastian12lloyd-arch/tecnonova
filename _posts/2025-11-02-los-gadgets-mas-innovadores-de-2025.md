@@ -11,4 +11,4 @@ El 2025 ha traído avances interesantes en hardware y dispositivos personales. D
 - Dispositivos con mayor autonomía y mejor integración IoT.
 - Gadgets orientados a la salud y bienestar.
 
-![Gadgets](https://via.placeholder.com/800x400.png?text=Gadgets+2025)
+![Gadgets 2025](/tecnonova/assets/img/gadgets.png)
