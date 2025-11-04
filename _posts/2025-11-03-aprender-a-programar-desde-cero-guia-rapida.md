@@ -16,4 +16,4 @@ Aprender a programar es una habilidad valiosa y accesible. Aquí tienes una guí
 - Cursos en línea y plataformas interactivas.
 - Repositorios de proyectos open source.
 
-![Programar](https://via.placeholder.com/800x400.png?text=Programacion+desde+cero)
+![Programar desde cero](/tecnonova/assets/img/programar.png)
