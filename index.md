@@ -10,9 +10,9 @@ Aquí encontrarás artículos sobre inteligencia artificial, gadgets, programaci
 ## Entradas recientes
 
 <ul>
-  <li><a href="/2025/11/01/la-revolucion-de-la-inteligencia-artificial.html">La revolución de la Inteligencia Artificial</a></li>
-  <li><a href="/2025/11/02/los-gadgets-mas-innovadores-de-2025.html">Los gadgets más innovadores de 2025</a></li>
-  <li><a href="/2025/11/03/aprender-a-programar-desde-cero-guia-rapida.html">Aprender a programar desde cero: guía rápida</a></li>
+  <li><a href="/tecnonova/2025/11/01/la-revolucion-de-la-inteligencia-artificial.html">La revolución de la Inteligencia Artificial</a></li>
+  <li><a href="/tecnonova/2025/11/02/los-gadgets-mas-innovadores-de-2025.html">Los gadgets más innovadores de 2025</a></li>
+  <li><a href="/tecnonova/2025/11/03/aprender-a-programar-desde-cero-guia-rapida.html">Aprender a programar desde cero: guía rápida</a></li>
 </ul>
 
 Visita las entradas para leer más.
